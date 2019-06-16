@@ -1,2 +1,2 @@
-#GitTest
+# GitTest
 Exercising git functionality
